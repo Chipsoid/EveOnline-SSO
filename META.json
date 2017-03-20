@@ -63,6 +63,20 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/Chipsoid/EveOnline-SSO/issues"
+      },
+      "homepage" : "https://github.com/Chipsoid/EveOnline-SSO",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/Chipsoid/EveOnline-SSO.git",
+         "web" : "https://github.com/Chipsoid/EveOnline-SSO"
+      }
+   },
    "version" : "0.01",
-   "x_authority" : "cpan:CHIPSOID"
+   "x_authority" : "cpan:CHIPSOID",
+   "x_contributors" : [
+      "Andrey Kuzmin <chips@reg.ru>"
+   ]
 }
