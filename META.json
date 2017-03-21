@@ -48,6 +48,7 @@
             "MIME::Base64" : "0",
             "Modern::Perl" : "0",
             "Moo" : "0",
+            "Storable" : "0",
             "URI::Escape" : "0",
             "URI::URL" : "0",
             "perl" : "5.008001"
@@ -74,7 +75,7 @@
          "web" : "https://github.com/Chipsoid/EveOnline-SSO"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_authority" : "cpan:CHIPSOID",
    "x_contributors" : [
       "Andrey Kuzmin <chips@reg.ru>"
